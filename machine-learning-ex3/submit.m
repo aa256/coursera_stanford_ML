@@ -26,7 +26,6 @@ function submit()
     }, ...
   };
   conf.output = @output;
-
   submitWithConfiguration(conf);
 end
 
